@@ -1,0 +1,28 @@
+_repo: The-Golden-Bough_41844
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41844-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gibbs, George
+    alias: Gibbs, George Fort
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '4037'
+    url: http://www.gutenberg.org/2009/agents/4037
+    wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
+description: ''
+gutenberg_issued: '2013-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Golden Bough
+url: http://www.gutenberg.org/ebooks/41844
